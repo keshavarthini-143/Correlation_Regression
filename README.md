@@ -21,9 +21,17 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
+Developed by: KESHAVARTHINI.B
+
+Register Number: 24900033
+
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output 
+
+![WhatsApp Image 2024-12-17 at 23 38 10_1697d8e0](https://github.com/user-attachments/assets/84d0f024-e101-4ab5-8532-d935ab27418c)
 
 # Result
 
-# Output 
+The correlation and regression for data analysis of objects from freeder using probability distribution are calculated.
+
